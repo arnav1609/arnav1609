@@ -1,6 +1,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@arnav1609-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnav1609/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Bhandari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bhandari-78b187314/)
 [![GitHub](https://img.shields.io/badge/GitHub-arnav1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav1609)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arnav1609-portfolio.vercel.app/)
 
 <!-- Add your profile header images below (You can generate these or link from assets) -->
 <!-- <img width="577" height="376" alt="image" src="YOUR_IMAGE_LINK_HERE" /> -->
@@ -123,6 +124,7 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 ## 📫 Contact
 ✉️ **Email:** arnavbhandari1609@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/arnav-bhandari-78b187314](https://www.linkedin.com/in/arnav-bhandari-78b187314/)  
+🌐 **Portfolio:** [arnav1609-portfolio.vercel.app](https://arnav1609-portfolio.vercel.app/)
 
 > _"I am a multidisciplinary builder who combines AI, IoT, frontend engineering, and product thinking to create impactful real-world solutions."_
 
