@@ -1,0 +1,110 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnav1609&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-@arnav1609-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnav1609/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Bhandari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bhandari-78b187314/)
+[![GitHub](https://img.shields.io/badge/GitHub-arnav1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav1609)
+
+<!-- Add your profile header images below (You can generate these or link from assets) -->
+<!-- <img width="577" height="376" alt="image" src="YOUR_IMAGE_LINK_HERE" /> -->
+<!-- <img width="577" height="259" alt="image" src="YOUR_IMAGE_LINK_HERE" /> -->
+
+---
+
+I am a multidisciplinary engineering student with experience in **AI, IoT, frontend development, embedded systems, and full-stack product building**. I have built impactful projects across agritech, fintech, women’s safety, smart mobility, and public infrastructure, with a strong focus on solving real-world problems through technology. My work combines hardware integration, machine learning, dashboard design, mobile app development, and user-centered thinking, allowing me to create complete, functional systems rather than isolated prototypes. I am especially interested in building intelligent, scalable products that bridge engineering with practical social and industry applications.
+
+---
+
+### ⚡ Quick Facts
+- 🔭 I’m currently working on **AI-agentic systems, IoT automation, and next-gen frontend products.**
+- 🌱 I’m currently diving deeper into **Advanced ML architectures (LSTMs) and Sensor Fusion techniques.**
+- 💬 Ask me about **React, Next.js, ESP32 hardware integrations, and Hackathon strategies.**
+- ⚡ Fun fact: **I build everything from cloud-based AI ecosystems down to the physical PCBs they run on!**
+
+---
+
+### 💻 Frontend & Full-Stack Development
+- **React, React Native, TypeScript (TSX), JavaScript**  
+- **UI/UX:** Tailwind CSS, Framer Motion, Shadcn/UI, Recharts  
+- **Backend:** Node.js, Express.js, secure authentication flows, route handling, and role-based systems  
+
+### 🧠 AI / ML & Applied Intelligence
+- **Computer Vision & Prediction:** YOLO bounds, sensor-data based prediction, and LSTM exploration  
+- **Data & Python Stack:** Python, NumPy, Pandas, Matplotlib, Streamlit  
+- **Applied AI:** Agentic workflows, ML ensemble concepts, AI chatbots, and actionable intelligence systems  
+
+### 🔌 IoT, Embedded Systems & Hardware
+- **Core Languages:** C, C++, Java  
+- **Hardware Integration:** ESP32, ESP32-CAM, Arduino ecosystem, sensor fusion (ultrasonic, environmental)  
+- **Communication & Modules:** GPS modules, SIM800L, panic button logic, hardware-triggered workflows  
+- **Control Electronics:** TBW (Throttle-by-Wire) circuit design, 48V to 12V/5V power conversion, motor control  
+
+### 🧰 Tools & Workflow
+- Git version control, GitHub workflows, CI/CD  
+- Product aesthetics, dashboard UX, user psychology  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧅 Kanda Krates — AI + IoT Smart Onion Storage Ecosystem
+- Designed a **React Native (Expo)** mobile app and IoT hardware ecosystem to reduce post-harvest onion spoilage.  
+- Integrated live sensor monitoring for temperature, humidity, CO₂, NH₃, and VOC levels to calculate a real-time **Onion Health Index (OHI)**.  
+- Powered by **Groq API** and ML models for spoilage prediction, shelf-life estimation, and actionable sell/hold advisories.  
+- Features include secure role-based login, sensor dashboards, AI summaries, and multilingual support for farmers.  
+
+### 🤖 NeuroFin — Agentic AI Financial Co-Pilot
+- Built a highly ambitious **fintech product** designed as an agent-based financial assistant, not just a static chatbot.  
+- Integrates multiple AI-driven workflows to guide users in financial understanding and decision-making.  
+- Simplifies complex financial data for non-expert users, acting as a personalized ecosystem.  
+- **Recognition:** Secured a *Top 300* spot in the *AWS 10,000 Ideas Hackathon*.  
+
+### 🛡️ Smart Wearable for Women Safety (Hackathon Winning Project)
+- Developed an embedded device to provide life-saving emergency response using **ESP32-CAM, SIM800L, and GPS integration**.  
+- Features hardware-triggered panic logic, fall detection, step counting, and emergency alerts.  
+- Demonstrated rapid hardware-software prototyping under competitive hackathon conditions.  
+
+### 🚗 AI-Powered Blind Spot Detection System
+- Designed a framework for automotive safety utilizing **YOLO for object detection** and sensor fusion concepts.  
+- Built for low-visibility environments (fog, rain, low light) using simulation-based validation and LSTM architectural planning for temporal pattern understanding.  
+
+### ⚡ Automotive & Infrastructure Engineering
+- **Smart Parking & Smart Bus Stop:** IoT systems utilizing ESP32, ultrasonic sensors, and cameras to automate public parking operations (built at *Hacknova 4.0*).  
+- **TBW (Throttle-by-Wire) Circuit Design:** Developed a 48V-to-12V power conversion circuit with manual/autonomous mode handling and R86 motor driver integration.  
+
+---
+
+## 🌟 Achievements & Recognition
+
+- 🏆 **1st Place** – Open Innovation at IIT Gandhinagar Codeversity  
+- 🏆 **1st Runner-Up** – Agritech Hackathon at KJ Somaiya College of Engineering  
+- 🏆 **1st Runner-Up** – NSCIF 2026 (National Student Change Initiatives Fest), New Delhi  
+- 🥈 **2nd Place** – DJS Strike National Level Project Competition  
+- 🥉 **3rd Place** – PCEU Crux  
+- 🥉 **3rd Place** – Level Up, KJSIT  
+- 🏅 **Top 300** – AWS 10,000 Ideas Hackathon *(for NeuroFin)*  
+- 🏅 **Top 12 Finish** – Hacknova 4.0 *(for Smart Parking System)*  
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnav1609&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1609&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Contact
+✉️ **Email:** arnavbhandari1609@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/arnav-bhandari-78b187314](https://www.linkedin.com/in/arnav-bhandari-78b187314/)  
+
+> _"I am a multidisciplinary builder who combines AI, IoT, frontend engineering, and product thinking to create impactful real-world solutions."_
+
+---
+
+*Last updated: 2026*
