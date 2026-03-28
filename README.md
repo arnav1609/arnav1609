@@ -13,6 +13,10 @@
 
 ---
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Arnav+Bhandari+👋;Multidisciplinary+Builder;Full-Stack+Developer;AI+%26+IoT+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
 I am a multidisciplinary engineering student with experience in **AI, IoT, frontend development, embedded systems, and full-stack product building**. I have built impactful projects across agritech, fintech, women’s safety, smart mobility, and public infrastructure, with a strong focus on solving real-world problems through technology. My work combines hardware integration, machine learning, dashboard design, mobile app development, and user-centered thinking, allowing me to create complete, functional systems rather than isolated prototypes. I am especially interested in building intelligent, scalable products that bridge engineering with practical social and industry applications.
 
 ---
@@ -26,24 +30,53 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 ---
 
 ### 💻 Frontend & Full-Stack Development
-- **React, React Native, TypeScript (TSX), JavaScript**  
-- **UI/UX:** Tailwind CSS, Framer Motion, Shadcn/UI, Recharts  
-- **Backend:** Node.js, Express.js, secure authentication flows, route handling, and role-based systems  
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+</div>
+<br/>
+
+- **UI/UX & Architecture:** Tailwind CSS, Framer Motion, Shadcn/UI, Recharts.  
+- **Backend:** Express.js, secure authentication flows, route handling, and role-based systems.
 
 ### 🧠 AI / ML & Applied Intelligence
-- **Computer Vision & Prediction:** YOLO bounds, sensor-data based prediction, and LSTM exploration  
-- **Data & Python Stack:** Python, NumPy, Pandas, Matplotlib, Streamlit  
-- **Applied AI:** Agentic workflows, ML ensemble concepts, AI chatbots, and actionable intelligence systems  
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
+<br/>
+
+- **Computer Vision & Prediction:** YOLO bounds, sensor-data based prediction, and LSTM exploration.  
+- **Data & Python Stack:** Matplotlib, Streamlit, applied dataset processing.  
+- **Applied AI:** Agentic workflows, ML ensemble concepts, AI chatbots, and actionable intelligence systems.
 
 ### 🔌 IoT, Embedded Systems & Hardware
-- **Core Languages:** C, C++, Java  
-- **Hardware Integration:** ESP32, ESP32-CAM, Arduino ecosystem, sensor fusion (ultrasonic, environmental)  
-- **Communication & Modules:** GPS modules, SIM800L, panic button logic, hardware-triggered workflows  
-- **Control Electronics:** TBW (Throttle-by-Wire) circuit design, 48V to 12V/5V power conversion, motor control  
+<div align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+</div>
+<br/>
+
+- **Hardware Integration:** ESP32, ESP32-CAM, Arduino ecosystem, sensor fusion (ultrasonic, environmental).  
+- **Communication & Modules:** GPS modules, SIM800L, panic button logic, hardware-triggered workflows.  
+- **Control Electronics:** TBW (Throttle-by-Wire) circuit design, 48V to 12V/5V power conversion, motor control.  
 
 ### 🧰 Tools & Workflow
-- Git version control, GitHub workflows, CI/CD  
-- Product aesthetics, dashboard UX, user psychology  
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+<br/>
+
+- Version control, CI/CD pipelines, robust repository architecture.  
+- Product aesthetics, dashboard UX, user psychology.
 
 ---
 
@@ -92,6 +125,7 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 ## 📈 GitHub Activity
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnav1609&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=arnav1609&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1609&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
