@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnav1609&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-<br/>
-
 [![Instagram](https://img.shields.io/badge/Instagram-@arnav1609-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnav1609/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Bhandari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bhandari-78b187314/)
 [![GitHub](https://img.shields.io/badge/GitHub-arnav1609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav1609)
@@ -127,8 +122,6 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnav1609&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=arnav1609&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1609&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
