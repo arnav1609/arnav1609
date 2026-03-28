@@ -13,10 +13,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Arnav+Bhandari+👋;Multidisciplinary+Builder;Full-Stack+Developer;AI+%26+IoT+Enthusiast" alt="Typing SVG" /></a>
-</div>
-
 I am a multidisciplinary engineering student with experience in **AI, IoT, frontend development, embedded systems, and full-stack product building**. I have built impactful projects across agritech, fintech, women’s safety, smart mobility, and public infrastructure, with a strong focus on solving real-world problems through technology. My work combines hardware integration, machine learning, dashboard design, mobile app development, and user-centered thinking, allowing me to create complete, functional systems rather than isolated prototypes. I am especially interested in building intelligent, scalable products that bridge engineering with practical social and industry applications.
 
 ---
