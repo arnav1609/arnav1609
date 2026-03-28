@@ -21,12 +21,14 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 
 ---
 
-### 🌐 Domains I Build In
-- **🌾 Agritech:** AI+IoT storage ecosystems, environmental monitoring, and predictive spoilage ML.
-- **💰 Fintech:** Autonomous LLM-driven financial co-pilots and complex data processing pipelines.
-- **🛡️ Public & Human Safety:** Edge-computed wearable alert systems and real-time threat detection.
-- **🚗 Smart Mobility & Infrastructure:** Autonomous vehicle subsystems, sensor fusion frameworks, and smart public city logic.
-- **🚀 AI SaaS & Next-Gen Web:** High-performance dynamic portfolios and agentic decision platforms.
+## 🌍 Domains I Build In
+- Agritech
+- Fintech
+- Women Safety
+- Smart Mobility
+- Smart Infrastructure
+- Embedded Systems
+- AI + IoT Product Systems
 
 ---
 
