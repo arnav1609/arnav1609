@@ -119,14 +119,6 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnav1609&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1609&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## 📫 Contact
 ✉️ **Email:** arnavbhandari1609@gmail.com  
