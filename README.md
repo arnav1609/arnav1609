@@ -29,6 +29,24 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 
 ---
 
+### 🧠 Agentic AI & Applied Machine Learning
+> **Building autonomous end-to-end agentic workflows, multi-agent systems, and LLM-driven decision ecosystems that solve complex, real-world problems.**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI/LLMs" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
+<br/>
+
+- **🛠️ Agentic Workflows:** Designing highly sophisticated Multi-Agent Systems, customized AI chatbots, autonomous decision engines, and actionable financial intelligence systems.
+- **👁️ Computer Vision & Deep Learning:** YOLO object detection, precision sensor fusion algorithms, real-time spatial bounding logic, and advanced LSTM/temporal pattern architectures.
+- **📊 Applied ML & Data Engineering:** Heavily scalable dataset processing (Pandas), Streamlit orchestration, predictive classification logic, and rigorous ML ensemble execution.
+
 ### 💻 Frontend & Full-Stack Development
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -42,18 +60,6 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 
 - **UI/UX & Architecture:** Tailwind CSS, Framer Motion, Shadcn/UI, Recharts.  
 - **Backend:** Express.js, secure authentication flows, route handling, and role-based systems.
-
-### 🧠 AI / ML & Applied Intelligence
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
-<br/>
-
-- **Computer Vision & Prediction:** YOLO bounds, sensor-data based prediction, and LSTM exploration.  
-- **Data & Python Stack:** Matplotlib, Streamlit, applied dataset processing.  
-- **Applied AI:** Agentic workflows, ML ensemble concepts, AI chatbots, and actionable intelligence systems.
 
 ### 🔌 IoT, Embedded Systems & Hardware
 <div align="left">
@@ -88,11 +94,11 @@ I am a multidisciplinary engineering student with experience in **AI, IoT, front
 - Powered by **Groq API** and ML models for spoilage prediction, shelf-life estimation, and actionable sell/hold advisories.  
 - Features include secure role-based login, sensor dashboards, AI summaries, and multilingual support for farmers.  
 
-### 🤖 NeuroFin — Agentic AI Financial Co-Pilot
-- Built a highly ambitious **fintech product** designed as an agent-based financial assistant, not just a static chatbot.  
-- Integrates multiple AI-driven workflows to guide users in financial understanding and decision-making.  
-- Simplifies complex financial data for non-expert users, acting as a personalized ecosystem.  
-- **Recognition:** Secured a *Top 300* spot in the *AWS 10,000 Ideas Hackathon*.  
+### ✨ NeuroFin — Autonomous Agentic AI Financial Co-Pilot 🤖
+- Architected an aggressively ambitious **AI fintech ecosystem**, moving far beyond static chatbots to deploy **intelligent, continuous multi-agent financial workflows**.
+- Engineered specialized LLM-driven agents to autonomously simplify, predict, and automate complex financial data pipelines for non-expert users.
+- Delivered a fully personalized financial intelligence co-pilot capable of proactive advisory and decision-making architecture.
+- **Recognition:** Secured a highly competitive *Top 300* spot in the global *AWS 10,000 Ideas Hackathon*.
 
 ### 🛡️ Smart Wearable for Women Safety (Hackathon Winning Project)
 - Developed an embedded device to provide life-saving emergency response using **ESP32-CAM, SIM800L, and GPS integration**.  
